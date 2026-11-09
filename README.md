@@ -207,3 +207,6 @@ This repository serves as the official landing page for Holo Dungeon. The softwa
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Holo Dungeon today!**
+
+---
+**Last updated:** 2026-11-09 01:25:37 UTC
